@@ -1,8 +1,0 @@
-
-.ipynb_checkpoints/
-__pycache__/
-*.pyc
-.DS_Store
-
-tmdb_featured_dataset.csv
-tmdb_featured_dataset.csv

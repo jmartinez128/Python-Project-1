@@ -6,3 +6,5 @@ __pycache__/
 
 tmdb_featured_dataset.csv
 tmdb_featured_dataset.csv
+TMDB_movie_dataset_v11.csv
+TMDB_movie_dataset_v11_filtered.csv

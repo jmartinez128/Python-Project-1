@@ -1,4 +1,4 @@
-# TMDB_Analysis_Python_Project
+# TMDB Python Analysis with Visualizations
 
 ## Overview
 

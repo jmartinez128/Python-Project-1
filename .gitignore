@@ -3,6 +3,10 @@
 __pycache__/
 *.pyc
 .DS_Store
+*.csv
+*.png
+*.jpeg
+*.jpg
 
 tmdb_featured_dataset.csv
 tmdb_featured_dataset.csv

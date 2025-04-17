@@ -46,4 +46,3 @@ Resources
 
 
 For my visualizations, I referenced the Python Glossary extensively.
-![image](https://github.com/user-attachments/assets/0581338d-bab1-43c8-92c4-836f964b9737)

@@ -6,7 +6,7 @@ This project analyzes the [Kaggle Dataset Full TMDB Movies Dataset 2024 (1M Movi
 
 ## Introduction
 
-My name is Jorge Martinez and I am studying Data Science with Machine Learning at New York City Data Science Academy. 
+My name is Jorge A. Martinez and I am studying Data Science with Machine Learning at New York City Data Science Academy. 
 This project demonstrates my skills in:
 
 - Working with datasets
